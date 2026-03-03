@@ -1,5 +1,5 @@
 # Edge-Detection-App-using-OpenCV
-# 🖼️ Edge Detection App using OpenCV
+# 🖼️ Edge Detection using OpenCV
 
 A simple Image Processing project built with Python and OpenCV.
 This app allows users to perform real-time edge detection using Canny algorithm with adjustable threshold values.
