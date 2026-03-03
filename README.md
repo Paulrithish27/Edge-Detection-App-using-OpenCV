@@ -34,14 +34,14 @@ Original Image → Grayscale → Edge Detection Output
 'q' → quit
 's' → save image
 ---
-#Python
-#OpenCV
-#ComputerVision
-#ImageProcessing
-#CannyEdgeDetection
-#PythonProjects
-#CodingJourney
-#DeveloperLife
-#TechLearning
+#Python 
+#OpenCV 
+#ComputerVision 
+#ImageProcessing 
+#CannyEdgeDetection 
+#PythonProjects 
+#CodingJourney 
+#DeveloperLife 
+#TechLearning 
 #AI
 
