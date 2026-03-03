@@ -28,5 +28,10 @@ This app allows users to perform real-time edge detection using Canny algorithm 
 ## 📸 Output Preview
 
 Original Image → Grayscale → Edge Detection Output
+
+* Waits for key press.
+
+'q' → quit
+'s' → save image
 ---
 
